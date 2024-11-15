@@ -27,27 +27,33 @@ sales_data = [
     ("Laptop", 5, 800), 
     ("Smartphone", 10, 600)
 ]
-Solution Steps
+### Solution Steps
+
 Store Sales Data: Initialize the sales data as a list of tuples.
 Initialize Structures: Create a set for unique products and a dictionary for total sales.
 Process Data: Loop through the sales data to populate the set and dictionary.
-Display Results:
+
+### Display Results:
 Print the list of unique products.
 Print a summary of total sales for each product.
-Analyze:
+
+### Analyze:
 Identify the product with the highest sales.
 Visualization:
 Visualize sales totals using a simple bar-like format in the console.
-How to Run
+
+### How to Run
 Make sure you have Python installed (preferably version 3.x).
 Save the provided Python script as sales_analysis.py.
 Open a terminal or command prompt.
 Navigate to the directory where the script is saved.
-Run the script using the following command:
+
+### Run the script using the following command:
 bash
 Copy code
 python sales_analysis.py
-Example Output
+
+### Example Output
 markdown
 Copy code
 Unique Products Sold:
